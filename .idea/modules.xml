@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Catching-And-Handling-Exceptions.iml" filepath="$PROJECT_DIR$/.idea/Catching-And-Handling-Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckedException/CheckedException.iml" filepath="$PROJECT_DIR$/CheckedException/CheckedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Error/Error.iml" filepath="$PROJECT_DIR$/Error/Error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuntimeException/RuntimeException.iml" filepath="$PROJECT_DIR$/RuntimeException/RuntimeException.iml" />
+    </modules>
+  </component>
+</project>
